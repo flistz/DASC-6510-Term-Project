@@ -9,7 +9,7 @@ The dataset can be found in the Numenta Anomaly Benchmark (NAB) repository, spec
 ## File Structure
 - `code/`:
   - `predict.ipynb`: Jupyter notebook containing all the analysis code, including data preprocessing, model training, evaluation, and prediction.
-- `data/`:
+- `code/`:
   - `Twitter_volume_AMZN.csv`: The Twitter volume data for Amazon (AMZN).
 
 ## Models
@@ -36,6 +36,3 @@ Contributions to improve the models or analysis are welcome. Please feel free to
 
 ## License
 This project is licensed under the terms of the MIT license.
-
-## Contact
-If you have any questions or suggestions, please open an issue in this repository.

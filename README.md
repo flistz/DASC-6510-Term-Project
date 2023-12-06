@@ -13,8 +13,8 @@ The dataset can be found in the Numenta Anomaly Benchmark (NAB) repository, spec
   - `Twitter_volume_AMZN.csv`: The Twitter volume data for Amazon (AMZN).
 
 ## Models
-- **Prophet Model:** This model, provided by the Prophet library, is utilized for its ability to handle time-series data with strong seasonal patterns.
-- **NNAR Model:** A custom Neural Network Autoregressive model is built using PyTorch, designed to capture the temporal dependencies within the data.
+- **Prophet Model** This model, provided by the Prophet library, is utilized for its ability to handle time-series data with strong seasonal patterns.
+- **NNAR Model** A custom Neural Network Autoregressive model is built using PyTorch, designed to capture the temporal dependencies within the data.
 
 ## Running the Notebook
 The notebook is intended to be run on Google Colab, which provides the required environment along with GPU support. 
